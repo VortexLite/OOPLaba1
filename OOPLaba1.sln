@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLaba1.1", "OOPLaba1\OOPLaba1.1.csproj", "{7E1EF415-C9CE-4C21-BAB3-2CC042DD901E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLaba1.2", "OOPLaba1.2\OOPLaba1.2.csproj", "{A196DEA4-A3FA-44D6-B3D9-61B64FB4C78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1EF415-C9CE-4C21-BAB3-2CC042DD901E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1EF415-C9CE-4C21-BAB3-2CC042DD901E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1EF415-C9CE-4C21-BAB3-2CC042DD901E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1EF415-C9CE-4C21-BAB3-2CC042DD901E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A196DEA4-A3FA-44D6-B3D9-61B64FB4C78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A196DEA4-A3FA-44D6-B3D9-61B64FB4C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A196DEA4-A3FA-44D6-B3D9-61B64FB4C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A196DEA4-A3FA-44D6-B3D9-61B64FB4C78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46C57F3-2883-4D4A-9899-BD6AC1F5E2FF}
+	EndGlobalSection
+EndGlobal
